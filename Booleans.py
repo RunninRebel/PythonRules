@@ -1,3 +1,4 @@
+#Working on how Booleans work
 name = "Kels"
 age = 34
 
