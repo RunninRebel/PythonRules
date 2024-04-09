@@ -45,5 +45,3 @@ print(people.iloc[2])
 
 #This one does not work, need to read up on printing observations
 #print(people.loc[['Shelby', 'Phillip']])
-
-
